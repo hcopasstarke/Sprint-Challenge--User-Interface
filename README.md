@@ -104,3 +104,13 @@ After finishing your required elements, you can push your work further. These go
 * [ ] Introduce CSS animations to your site.
 * [ ] Build a contact page and create a form with several inputs of your choosing
 * [ ] Add responsive breakpoints to your code by using media queries
+
+1. Semantic HTML allows individuals to organize and define sections of a document for your own self as well as others. The most important aspect of semantic HTML is the fact that it allows you to clearly communicate the information within a document. This means that it provides meaning and clarity the content of a document. 
+
+2. Two big differences between display: block and display: inline is that 1. block displays elements considers margins and padding and 2. inline allows individuals to set width and height on the element. 
+
+3. The four areas of the block model are content, padding, border, and margin.
+
+4. Flexbox allows you to work on the main axis. 
+
+5. Git is incredibly important for teams because it allows you to keep an original document, create branches of the same document, and view changes. This is incredibly important for individuals trying to test out certain aspects of a project while maintaining the parts of a project that one may want to keep. 
